@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this survey or repository, please cite the paper below."
+title: "A Survey of Large Models in Sports"
+type: conference-paper
+authors:
+  - family-names: Xu
+    given-names: Yichen
+  - family-names: Ma
+    given-names: Jianzhe
+  - family-names: Wang
+    given-names: Chuhan
+  - family-names: Cao
+    given-names: Zhonghao
+  - family-names: Chen
+    given-names: Liangyu
+  - family-names: Wang
+    given-names: Wenxuan
+  - family-names: Jin
+    given-names: Qin
+collection-title: "Findings of the Association for Computational Linguistics: ACL 2026"
+publisher:
+  name: Association for Computational Linguistics
+year: 2026
+month: 7
+start: 37154
+end: 37189
+doi: 10.18653/v1/2026.findings-acl.1851
+url: "https://aclanthology.org/2026.findings-acl.1851/"
+repository-code: "https://github.com/Road2Redemption/Awesome_Large_Models_In_Sports1"
+license: MIT

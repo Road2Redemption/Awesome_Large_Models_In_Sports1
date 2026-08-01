@@ -1,0 +1,31 @@
+name: Report a correction
+description: Report incorrect metadata, classification, or a broken link.
+title: "[Correction]: "
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Affected entry
+      placeholder: Paper title or README section
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is incorrect?
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Authoritative source
+      description: Provide a URL that verifies the correction.
+      placeholder: https://...
+    validations:
+      required: true
+  - type: textarea
+    id: fix
+    attributes:
+      label: Suggested correction
+    validations:
+      required: true

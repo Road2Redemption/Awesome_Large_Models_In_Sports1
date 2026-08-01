@@ -1,0 +1,66 @@
+name: Add a paper or resource
+description: Suggest a relevant paper, dataset, benchmark, model, or project.
+title: "[Add]: "
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping us maintain the collection. Please search the README for duplicates first.
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      placeholder: Full title of the work
+    validations:
+      required: true
+  - type: input
+    id: paper
+    attributes:
+      label: Canonical paper URL
+      description: Prefer ACL Anthology, DOI, publisher, OpenReview, or arXiv.
+      placeholder: https://...
+    validations:
+      required: true
+  - type: input
+    id: venue
+    attributes:
+      label: Venue and year
+      placeholder: ACL 2026
+    validations:
+      required: true
+  - type: dropdown
+    id: stakeholder
+    attributes:
+      label: Primary category
+      options:
+        - Athletes and Trainers
+        - Coaches and Educators
+        - Referees
+        - Fans and Media
+        - Researchers
+        - Sports Industry
+        - Sports Understanding
+        - Related Surveys
+        - Unsure
+    validations:
+      required: true
+  - type: input
+    id: resources
+    attributes:
+      label: Code, dataset, model, or project links
+      placeholder: https://github.com/... (optional)
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Relevance
+      description: Explain the connection to large models and sports and why this category fits.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Submission checks
+      options:
+        - label: I searched the README for the title, identifier, and URL.
+          required: true
+        - label: The metadata above matches the linked source.
+          required: true

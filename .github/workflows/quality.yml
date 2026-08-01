@@ -1,0 +1,34 @@
+name: Quality checks
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Validate repository and paper entries
+        run: python3 scripts/validate_repository.py
+
+      - name: Verify generated year index
+        run: python3 scripts/generate_year_index.py --check
+
+      - name: Verify searchable catalog data
+        run: python3 scripts/generate_catalog.py --check
+
+      - name: Check catalog JavaScript syntax
+        run: node --check docs/app.js
+
+      - name: Check whitespace errors
+        run: git diff --check HEAD^

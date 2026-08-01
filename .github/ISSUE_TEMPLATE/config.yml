@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Read the survey paper
+    url: https://aclanthology.org/2026.findings-acl.1851/
+    about: Review the taxonomy and scope before proposing a new category.
