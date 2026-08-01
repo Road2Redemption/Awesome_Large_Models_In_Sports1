@@ -46,8 +46,8 @@ button, input, select { font: inherit; }
 }
 .brand { display: flex; align-items: center; gap: 11px; font-weight: 600; text-decoration: none; }
 .brand-mark {
-  display: grid; place-items: center; width: 34px; height: 34px; border-radius: 8px;
-  color: white; background: var(--accent); font-size: 11px; font-weight: 700;
+  display: grid; place-items: center; min-width: 78px; height: 34px; padding-inline: 10px; border-radius: 8px;
+  color: white; background: var(--accent); font-size: 11px; font-weight: 700; letter-spacing: .02em;
 }
 .nav-links { display: flex; gap: 26px; }
 .nav-links a { color: var(--ink-soft); text-decoration: none; font-size: 14px; }
@@ -150,7 +150,6 @@ footer { padding-block: 48px; color: var(--ink-soft); background: var(--panel); 
   .nav { padding-block: 15px; }
   .brand > span:last-child { display: none; }
   .nav-links { gap: 17px; }
-  .nav-links a:nth-child(2) { display: none; }
   .hero h1 { font-size: 45px; }
   .dek { font-size: 16px; }
   .catalog { padding-block: 56px 72px; }
