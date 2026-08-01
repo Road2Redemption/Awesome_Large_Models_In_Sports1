@@ -19,7 +19,7 @@
 
 ## 🔔 News
 
-- **[2026-08-01]** 🔎 We expanded the living bibliography with papers first released from **July 2025 through July 2026**, including new work from arXiv, alphaXiv, and SportRxiv.
+- **[2026-08-01]** 🔎 We expanded the living bibliography with papers first released from **July 2025 through July 2026**.
 - **[2026-04-04]** 🎉 Our survey was accepted to **Findings of ACL 2026**.
 - **[2025-10-21]** 📄 We released the preprint of ["A Survey of Large Models in Sports"](https://www.researchgate.net/publication/396734233_A_Survey_of_Large_Models_in_Sports).
 - **[2025-10-13]** 🚀 We launched this repository as a living collection of research on large models in sports.

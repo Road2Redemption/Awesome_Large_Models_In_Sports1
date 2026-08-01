@@ -124,6 +124,22 @@ button, input, select { font: inherit; }
 .empty-state h3 { margin: 24px 0 8px; font-size: 27px; }
 .empty-state p { color: var(--ink-soft); }
 
+.contact { padding-block: 76px; border-top: 1px solid var(--line); background: var(--panel-warm); }
+.contact-grid { display: grid; grid-template-columns: .8fr 1.2fr; gap: 80px; align-items: start; }
+.contact-intro h2 { margin: 0; font-size: clamp(36px, 4.5vw, 54px); line-height: 1.02; letter-spacing: -.04em; }
+.contact-intro > p:last-child { max-width: 470px; margin: 24px 0 0; color: var(--ink-soft); line-height: 1.65; }
+.contact-cards { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+.contact-card { overflow: hidden; padding: 24px; border: 1px solid #ead9dd; border-radius: 14px; background: var(--paper); }
+.contact-role { margin: 0 0 12px; color: var(--accent); text-transform: uppercase; letter-spacing: .12em; font-size: 10px; font-weight: 700; }
+.contact-card h3 { margin: 0 0 7px; font-size: 25px; letter-spacing: -.025em; }
+.contact-email { color: var(--ink-soft); font-size: 13px; text-decoration-color: #d2aab4; text-underline-offset: 3px; }
+.contact-card details { margin-top: 22px; border-top: 1px solid var(--line); }
+.contact-card summary { display: flex; justify-content: space-between; padding-top: 16px; color: var(--accent); cursor: pointer; list-style: none; font-size: 13px; font-weight: 600; }
+.contact-card summary::-webkit-details-marker { display: none; }
+.contact-card details[open] summary span { transform: rotate(45deg); }
+.contact-card summary span { font-size: 18px; line-height: .8; transition: transform .18s ease; }
+.contact-card img { display: block; width: 100%; margin-top: 18px; border: 1px solid var(--line); border-radius: 10px; }
+
 footer { padding-block: 48px; color: var(--ink-soft); background: var(--panel); border-top: 1px solid var(--line); }
 .footer-grid { display: flex; justify-content: space-between; gap: 40px; }
 .footer-grid p { max-width: 560px; margin: 7px 0 0; line-height: 1.55; }
@@ -137,6 +153,7 @@ footer { padding-block: 48px; color: var(--ink-soft); background: var(--panel); 
   .hero-grid { grid-template-columns: 1fr; gap: 44px; padding-block: 60px 68px; }
   .scoreboard { max-width: 430px; }
   .catalog-intro { grid-template-columns: 1fr; gap: 20px; }
+  .contact-grid { grid-template-columns: 1fr; gap: 36px; }
   .filters { grid-template-columns: 1fr 1fr; }
   .search-box { grid-column: 1 / -1; }
 }
@@ -151,5 +168,7 @@ footer { padding-block: 48px; color: var(--ink-soft); background: var(--panel); 
   .filters, .paper-grid { grid-template-columns: 1fr; }
   .search-box { grid-column: auto; }
   .paper-card { min-height: 250px; }
+  .contact { padding-block: 56px; }
+  .contact-cards { grid-template-columns: 1fr; }
   .footer-grid, .footer-links { align-items: flex-start; flex-direction: column; }
 }
