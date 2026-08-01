@@ -1,18 +1,9 @@
 <div align="center">
-  <h1>Awesome Large Models in Sports</h1>
+  <h1><img src="assets/title.png" alt="" width="56" align="absmiddle"> Awesome Large Models in Sports</h1>
   <p><strong>A living survey and curated research hub for large language and multimodal models in sports</strong></p>
-
-  <p>
-    <a href="https://aclanthology.org/2026.findings-acl.1851/"><strong>ACL Anthology</strong></a> |
-    <a href="https://aclanthology.org/2026.findings-acl.1851.pdf"><strong>PDF</strong></a> |
-    <a href="https://road2redemption.github.io/Awesome_Large_Models_In_Sports1/"><strong>Explore Catalog</strong></a> |
-    <a href="paper.bib"><strong>BibTeX</strong></a> |
-    <a href="CONTRIBUTING.md"><strong>Contribute</strong></a>
-  </p>
-
   
   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-  [![ACL 2026 Findings](https://img.shields.io/badge/ACL%202026-Findings-1f6f8b.svg)](https://aclanthology.org/2026.findings-acl.1851/)
+  [![Paper](https://img.shields.io/badge/ACL%202026-Findings-1f6f8b.svg)](https://aclanthology.org/2026.findings-acl.1851/)
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
   ![](https://img.shields.io/github/last-commit/Road2Redemption/Awesome_Large_Models_In_Sports1?color=green) 
 
