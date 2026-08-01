@@ -4,6 +4,7 @@
   
   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
   [![Paper](https://img.shields.io/badge/ACL%202026-Findings-1f6f8b.svg)](https://aclanthology.org/2026.findings-acl.1851/)
+  [![Website](https://img.shields.io/badge/Website-Explore%20the%20Index-a22c46.svg)](https://road2redemption.github.io/Awesome_Large_Models_In_Sports1/)
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
   ![](https://img.shields.io/github/last-commit/Road2Redemption/Awesome_Large_Models_In_Sports1?color=green) 
 
@@ -19,6 +20,7 @@
 
 ## 🔔 News
 
+- **[2026-08-01]** 🌐 We released the [interactive literature index](https://road2redemption.github.io/Awesome_Large_Models_In_Sports1/) for browsing the survey collection by stakeholder, topic, and year.
 - **[2026-08-01]** 🔎 We expanded the living bibliography with papers first released from **July 2025 through July 2026**.
 - **[2026-04-04]** 🎉 Our survey was accepted to **Findings of ACL 2026**.
 - **[2025-10-21]** 📄 We released the preprint of ["A Survey of Large Models in Sports"](https://www.researchgate.net/publication/396734233_A_Survey_of_Large_Models_in_Sports).
@@ -32,9 +34,9 @@
 > Yichen Xu, Jianzhe Ma, Chuhan Wang, Zhonghao Cao, Liangyu Chen, Wenxuan Wang, and Qin Jin.<br>
 > *A Survey of Large Models in Sports.* Findings of ACL 2026, pages 37154–37189.
 
-| Read | Cite | Explore |
-| --- | --- | --- |
-| [ACL Anthology](https://aclanthology.org/2026.findings-acl.1851/) · [PDF](https://aclanthology.org/2026.findings-acl.1851.pdf) | [BibTeX](paper.bib) · [Citation metadata](CITATION.cff) | [Interactive literature index](https://road2redemption.github.io/Awesome_Large_Models_In_Sports1/) · [Topic list](#-table-of-contents) |
+| Read | Cite |
+| --- | --- |
+| [ACL Anthology](https://aclanthology.org/2026.findings-acl.1851/) · [PDF](https://aclanthology.org/2026.findings-acl.1851.pdf) | [BibTeX](paper.bib) · [Citation metadata](CITATION.cff) |
 
 ### The survey in two figures
 
@@ -42,6 +44,16 @@
 | --- | --- |
 | [<img src="applications.jpg" alt="Applications of large models across six sports stakeholder groups" width="100%">](applications.jpg) | [<img src="taxonomy.png" alt="Taxonomy of large models in sports" width="100%">](taxonomy.png) |
 | Six stakeholder groups connect large models to real participants in sport. | Topics, tasks, and datasets form the structure used throughout this repository. |
+
+---
+
+## 🌐 Explore the Literature
+
+Welcome to our [interactive literature index](https://road2redemption.github.io/Awesome_Large_Models_In_Sports1/), where you can search the full collection and filter papers by stakeholder group, research topic, and publication year.
+
+<p align="center">
+  <a href="https://road2redemption.github.io/Awesome_Large_Models_In_Sports1/"><strong>Explore the interactive index →</strong></a>
+</p>
 
 ---
 
@@ -99,6 +111,7 @@ Use these paths to move from the survey to representative research areas:
 
 ## 📜 Table of Contents
 
+- [Explore the Literature](#-explore-the-literature)
 - [Featured Reading Paths](#-featured-reading-paths)
 - [Applications for Athletes and Trainers](#applications-for-athletes-and-trainers)
   - [Training Prescription and Plans](#training-prescription-and-plans)
