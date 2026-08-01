@@ -1,6 +1,6 @@
 {
   "generated_from": "README.md",
-  "paper_count": 243,
+  "paper_count": 263,
   "papers": [
     {
       "title": "Artificial Intelligence in Sport: Exploring the Potential of Using ChatGPT in Resistance Training Prescription",
@@ -614,6 +614,32 @@
       ]
     },
     {
+      "title": "Talking Tennis: Language Feedback from 3D Biomechanical Action Recognition",
+      "year": 2025,
+      "venue": "arXiv:2510.03921 2025",
+      "paper": "https://arxiv.org/abs/2510.03921",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Athletes and Trainers",
+          "topic": "Training Prescription and Plans"
+        }
+      ]
+    },
+    {
+      "title": "Synthesizing the Expert: A Validated Multimodal Dataset for Trustworthy AI-Assisted Swimming Coaching",
+      "year": 2026,
+      "venue": "arXiv:2605.12799 2026",
+      "paper": "https://arxiv.org/abs/2605.12799",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Athletes and Trainers",
+          "topic": "Training Prescription and Plans"
+        }
+      ]
+    },
+    {
       "title": "The Role of ChatGPT in Sports Trauma: a Mini Review on Strengths and Limits of Open AI Application",
       "year": 2023,
       "venue": "Discover Artificial Intelligence 2023",
@@ -748,6 +774,32 @@
       "year": 2024,
       "venue": "Diagnostics 2024",
       "paper": "https://www.mdpi.com/2075-4418/14/22/2516",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Athletes and Trainers",
+          "topic": "Sports Injury and Rehabilitation"
+        }
+      ]
+    },
+    {
+      "title": "Standardization of Neuromuscular Reflex Analysis -- Role of Fine-Tuned Vision-Language Model Consortium and OpenAI gpt-oss Reasoning LLM Enabled Decision Support System",
+      "year": 2025,
+      "venue": "arXiv:2508.12473 2025",
+      "paper": "https://arxiv.org/abs/2508.12473",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Athletes and Trainers",
+          "topic": "Sports Injury and Rehabilitation"
+        }
+      ]
+    },
+    {
+      "title": "Clinician-Directed Large Language Model Software Generation for Therapeutic Interventions in Physical Rehabilitation",
+      "year": 2025,
+      "venue": "arXiv:2511.18274 2025",
+      "paper": "https://arxiv.org/abs/2511.18274",
       "resources": {},
       "categories": [
         {
@@ -1025,6 +1077,19 @@
       ]
     },
     {
+      "title": "Breakdance Video Classification in the Age of Generative AI",
+      "year": 2025,
+      "venue": "arXiv:2510.20287 2025",
+      "paper": "https://arxiv.org/abs/2510.20287",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Coaches and Educators",
+          "topic": "Action Spotting and Recognition"
+        }
+      ]
+    },
+    {
       "title": "From Beats to Scores: a Multi-Modal Framework for Comprehensive Figure Skating Assessment",
       "year": 2025,
       "venue": "CVPR 2025 CVsports Workshop",
@@ -1081,6 +1146,19 @@
       "year": 2026,
       "venue": "arXiv:2604.08294 2026",
       "paper": "https://arxiv.org/abs/2604.08294",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Coaches and Educators",
+          "topic": "Sports Action Quality Assessment"
+        }
+      ]
+    },
+    {
+      "title": "Learning Skill-Attributes for Transferable Assessment in Video",
+      "year": 2025,
+      "venue": "NeurIPS 2025",
+      "paper": "https://arxiv.org/abs/2511.13993",
       "resources": {},
       "categories": [
         {
@@ -1207,6 +1285,19 @@
       ]
     },
     {
+      "title": "TacEleven: Generative Tactic Discovery for Football Open Play",
+      "year": 2025,
+      "venue": "arXiv:2511.13326 2025",
+      "paper": "https://arxiv.org/abs/2511.13326",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Coaches and Educators",
+          "topic": "Sports Tactics and Strategies"
+        }
+      ]
+    },
+    {
       "title": "Predicting in-Game Actions from Interviews of NBA Players",
       "year": 2020,
       "venue": "Computational Linguistics 2020",
@@ -1263,6 +1354,45 @@
       "year": null,
       "venue": "",
       "paper": "https://www.degruyterbrill.com/document/doi/10.1515/jqas-2025-0006/html",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Coaches and Educators",
+          "topic": "Game and Player Performance Prediction"
+        }
+      ]
+    },
+    {
+      "title": "Neural Sabermetrics with World Model: Play-by-Play Predictive Modeling with Large Language Model",
+      "year": 2026,
+      "venue": "arXiv:2602.07030 2026",
+      "paper": "https://arxiv.org/abs/2602.07030",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Coaches and Educators",
+          "topic": "Game and Player Performance Prediction"
+        }
+      ]
+    },
+    {
+      "title": "KellyBench: A Benchmark for Long-Horizon Sequential Decision Making",
+      "year": 2026,
+      "venue": "arXiv:2604.27865 2026",
+      "paper": "https://arxiv.org/abs/2604.27865",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Coaches and Educators",
+          "topic": "Game and Player Performance Prediction"
+        }
+      ]
+    },
+    {
+      "title": "LLM-SoccerArena: Benchmarking LLMs on Real-World Predictions in Sports",
+      "year": 2026,
+      "venue": "arXiv:2607.24573 2026",
+      "paper": "https://arxiv.org/abs/2607.24573",
       "resources": {},
       "categories": [
         {
@@ -1790,6 +1920,45 @@
       ]
     },
     {
+      "title": "MCAD: Multimodal Context-Aware Audio Description Generation for Soccer",
+      "year": 2025,
+      "venue": "arXiv:2511.09448 2025",
+      "paper": "https://arxiv.org/abs/2511.09448",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Fans and Media",
+          "topic": "Sports Commentary Generation"
+        }
+      ]
+    },
+    {
+      "title": "Real-Time Generation of Game Video Commentary with Multimodal LLMs: Pause-Aware Decoding Approaches",
+      "year": 2026,
+      "venue": "LREC 2026",
+      "paper": "https://arxiv.org/abs/2603.02655",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Fans and Media",
+          "topic": "Sports Commentary Generation"
+        }
+      ]
+    },
+    {
+      "title": "BoxComm: Benchmarking Category-Aware Commentary Generation and Narration Rhythm in Boxing",
+      "year": 2026,
+      "venue": "arXiv:2604.04419 2026",
+      "paper": "https://arxiv.org/abs/2604.04419",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Fans and Media",
+          "topic": "Sports Commentary Generation"
+        }
+      ]
+    },
+    {
       "title": "Multi-Modal Architecture for Cricket Highlights Generation: Using Computer Vision and Large Language Model",
       "year": 2023,
       "venue": "ICOSST 2023",
@@ -1868,6 +2037,19 @@
       ]
     },
     {
+      "title": "SVHighlights: Towards Extremely Long Sport Video Highlight Detection",
+      "year": 2026,
+      "venue": "KDD 2026",
+      "paper": "https://arxiv.org/abs/2606.06926",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Fans and Media",
+          "topic": "Sports Highlight Generation"
+        }
+      ]
+    },
+    {
       "title": "SportsSum2.0: Generating High-Quality Sports News from Live Text Commentary",
       "year": 2021,
       "venue": "CIKM 2021",
@@ -1937,6 +2119,45 @@
       "year": 2025,
       "venue": "ACL-SRW 2025",
       "paper": "https://openreview.net/pdf?id=gR4MPb03or",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Fans and Media",
+          "topic": "Sports News Generation"
+        }
+      ]
+    },
+    {
+      "title": "Moneyball with LLMs: Analyzing Tabular Summarization in Sports Narratives",
+      "year": 2025,
+      "venue": "arXiv:2510.18173 2025",
+      "paper": "https://arxiv.org/abs/2510.18173",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Fans and Media",
+          "topic": "Sports News Generation"
+        }
+      ]
+    },
+    {
+      "title": "Tree-of-Text: A Tree-Based Prompting Framework for Table-to-Text Generation in the Sports Domain",
+      "year": 2026,
+      "venue": "arXiv:2604.26501 2026",
+      "paper": "https://arxiv.org/abs/2604.26501",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Fans and Media",
+          "topic": "Sports News Generation"
+        }
+      ]
+    },
+    {
+      "title": "SUMMIR: A Hallucination-Aware Framework for Ranking Sports Insights from LLMs",
+      "year": 2026,
+      "venue": "arXiv:2604.04947 2026",
+      "paper": "https://arxiv.org/abs/2604.04947",
       "resources": {},
       "categories": [
         {
@@ -2305,6 +2526,19 @@
       ]
     },
     {
+      "title": "SPORTSQL: An Interactive System for Real-Time Sports Reasoning and Visualization",
+      "year": 2025,
+      "venue": "arXiv:2508.17157 2025",
+      "paper": "https://arxiv.org/abs/2508.17157",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Fans and Media",
+          "topic": "Sports Models and Systems"
+        }
+      ]
+    },
+    {
       "title": "ChatGPT for Sample-Size Calculation in Sports Medicine and Exercise Sciences: a Cautionary Note",
       "year": 2023,
       "venue": "International Journal of Sports Physiology and Performance 2023",
@@ -2634,6 +2868,32 @@
       "year": 2026,
       "venue": "arXiv:2604.22226 2026",
       "paper": "https://arxiv.org/abs/2604.22226",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Sports Understanding",
+          "topic": "Specialized Sports Understanding"
+        }
+      ]
+    },
+    {
+      "title": "Let's Play Across Cultures: A Large Multilingual, Multicultural Benchmark for Assessing Language Models' Understanding of Sports",
+      "year": 2025,
+      "venue": "arXiv:2510.01247 2025",
+      "paper": "https://arxiv.org/abs/2510.01247",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Sports Understanding",
+          "topic": "Specialized Sports Understanding"
+        }
+      ]
+    },
+    {
+      "title": "TennisTV: Do Multimodal Large Language Models Understand Tennis Rallies?",
+      "year": 2025,
+      "venue": "arXiv:2509.15602 2025",
+      "paper": "https://arxiv.org/abs/2509.15602",
       "resources": {},
       "categories": [
         {
