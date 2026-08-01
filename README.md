@@ -19,6 +19,7 @@
 
 ## 🔔 News
 
+- **[2026-08-01]** 🔎 We expanded the living bibliography with papers first released from **July 2025 through July 2026**, including new work from arXiv, alphaXiv, and SportRxiv.
 - **[2026-04-04]** 🎉 Our survey was accepted to **Findings of ACL 2026**.
 - **[2025-10-21]** 📄 We released the preprint of ["A Survey of Large Models in Sports"](https://www.researchgate.net/publication/396734233_A_Survey_of_Large_Models_in_Sports).
 - **[2025-10-13]** 🚀 We launched this repository as a living collection of research on large models in sports.
@@ -63,8 +64,10 @@ This repository is the living bibliography for our survey. It covers research th
 | --- | --- |
 | **6 stakeholder groups** | Athletes, coaches, referees, fans, researchers, and industry |
 | **28 research topics** | From training prescription to multimodal sports understanding |
-| **225 unique works** | Searchable in the [interactive research catalog](https://road2redemption.github.io/Awesome_Large_Models_In_Sports1/) |
-| **2020–2025 literature** | Organized by the taxonomy introduced in our ACL 2026 paper |
+| **243 unique works** | Searchable in the [interactive research catalog](https://road2redemption.github.io/Awesome_Large_Models_In_Sports1/) |
+| **2020–2026 literature** | Updated through **July 31, 2026** and organized by the taxonomy introduced in our ACL 2026 paper |
+
+For literature updates, we use the paper's **first public release date** to determine whether it falls inside the update window; later revisions of earlier preprints are not counted as newly released papers. We include work in which an LLM, MLLM, VLM, or closely related large-model system is central to the sports task, dataset, benchmark, or analysis. See the [literature search protocol](LITERATURE_SEARCH.md) for the sources and screening rules.
 
 We organize the applications into **six major stakeholder groups** ([see the application landscape](applications.jpg)):
 
@@ -181,6 +184,11 @@ Use these paths to move from the survey to representative research areas:
 40. **The AI Coach: A 5-Week AI-Generated Calisthenics Training Program on Health-Related Physical Fitness Components of Untrained Collegiate Students**, Journal of Human Sport and Exercise 2025 [[paper](https://www.jhse.es/index.php/jhse/article/view/ai-generated-calisthenics-training-program)]
 41. **The Effects of Chat GPT Generated Exercise Program in Healthy Overweight Young Adults: A Pilot Study**, Journal of Human Sport and Exercise 2025 [[paper](https://www.jhse.es/index.php/jhse/article/view/gpt-chat-generated-exercise-program-healthy-overweight-young-adu)]
 42. **Promises and Perils of Generative Artificial Intelligence: A Narrative Review Informing Its Ethical and Practical Applications in Clinical Exercise Physiology**, BMC Sports Science, Medicine and Rehabilitation 2025 [[paper](https://link.springer.com/article/10.1186/s13102-025-01182-7)]
+43. **Exploring Large Language Model as an Interactive Sports Coach: Lessons from a Single-Subject Half Marathon Preparation**, arXiv:2509.26593 2025 [[paper](https://arxiv.org/abs/2509.26593)]
+44. **SportsGPT: An LLM-driven Framework for Interpretable Sports Motion Assessment and Training Guidance**, arXiv:2512.14121 2025 [[paper](https://arxiv.org/abs/2512.14121)]
+45. **Generalizing Sports Feedback Generation by Watching Competitions and Reading Books: A Rock Climbing Case Study**, WACV 2026 [[paper](https://arxiv.org/abs/2602.08996)]
+46. **Learning Consistent Temporal Grounding between Related Tasks in Sports Coaching**, arXiv:2603.18453 2026 [[paper](https://arxiv.org/abs/2603.18453)]
+47. **Digitizing Coaching Intelligence: An Agentic Framework for Holistic Athlete Profiling using VLM and RAG**, arXiv:2606.28570 2026 [[paper](https://arxiv.org/abs/2606.28570)]
 
 ### Sports Injury and Rehabilitation
 
@@ -208,6 +216,7 @@ Use these paths to move from the survey to representative research areas:
 8. **Large Language Models for Wearable Sensor-Based Human Activity Recognition, Health Monitoring, and Behavioral Modeling: a Survey of Early Trends, Datasets, and Challenges**, Sensors 2024 [[paper](https://www.mdpi.com/1424-8220/24/15/5045)]
 9. **HARGPT: Are LLMs Zero-Shot Human Activity Recognizers?**, FMSys 2024 [[paper](https://ieeexplore.ieee.org/abstract/document/10590466)]
 10. **LLaSA: Large Multimodal Agent for Human Activity Analysis Through Wearable Sensors**, arXiv 2024 [[paper](https://bashlab.wpi.edu/publications_pdf/imran2024llasa.pdf)]
+11. **The Promise of Foundational Large Language Models in Analysis and Interpretation of Wearable Data: Implications for Physical Behavior Research**, SportRxiv 2026 [[paper](https://sportrxiv.org/index.php/server/preprint/view/711)]
 
 
 ## Applications for Coaches and Educators
@@ -230,6 +239,7 @@ Use these paths to move from the survey to representative research areas:
 2. **Fine-Tuning Large Multimodal Models for Fitness Action Quality Assessment**, UMAP adjunct 2025 [[paper](https://dl.acm.org/doi/10.1145/3708319.3733684)]
 3. **FitnessAgent: a Unified Agent Framework for Open-Set and Personalized Fitness Evaluation**, ICRA 2025 [[paper](https://www.researchgate.net/publication/395222916_FitnessAgent_A_Unified_Agent_Framework_for_Open-Set_and_Personalized_Fitness_Evaluation)]
 4. **LLM-FMS: a Fine-Grained Dataset for Functional Movement Screen Action Quality Assessment**, PloS one 2025 [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313707)]
+5. **Can Vision Language Models Judge Action Quality? An Empirical Evaluation**, arXiv:2604.08294 2026 [[paper](https://arxiv.org/abs/2604.08294)]
 
 ### Sports Tactics and Strategies
 
@@ -271,6 +281,9 @@ Use these paths to move from the survey to representative research areas:
 
 1. **X-VARS: Introducing Explainability in Football Refereeing with Multi-Modal Large Language Models**, CVPR 2024 Workshop [[paper](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/html/Held_X-VARS_Introducing_Explainability_in_Football_Refereeing_with_Multi-Modal_Large_Language_CVPRW_2024_paper.html)]
 2. **Enhancing Football Refereeing with AI: VARS and X-VARS for Assisted Decision-Making**, MathSport International 2025 [[paper](https://orbi.uliege.be/handle/2268/328584)]
+3. **RefereeBench: Are Video MLLMs Ready to be Multi-Sport Referees**, arXiv:2604.15736 2026 [[paper](https://arxiv.org/abs/2604.15736)]
+4. **SoccerRef-Agents: Multi-Agent System for Automated Soccer Refereeing**, arXiv:2604.23392 2026 [[paper](https://arxiv.org/abs/2604.23392)]
+5. **Beyond the Single Camera: Agentic Multi-View Reasoning in Sports Video Understanding**, arXiv:2607.11844 2026 [[paper](https://arxiv.org/abs/2607.11844)]
 
 
 ## Applications for Fans and Media
@@ -298,6 +311,9 @@ Use these paths to move from the survey to representative research areas:
 19. **Enhanced Cricket Commentary Using AI Vision and Multilingual Translation**, IEEE International Conference on Emerging Technologies and Applications (MPSec ICETA), IEEE 2025 [[paper](https://ieeexplore.ieee.org/abstract/document/11118722)]
 20. **Temporally-Grounded Language Generation: a Benchmark for Real-Time Vision-Language Models**, arXiv:2505.11326 [[paper](https://arxiv.org/abs/2505.11326)]
 21. **StreamMind: Unlocking Full Frame Rate Streaming Video Dialogue Through Event-Gated Cognition**, arXiv:2503.06220 [[paper](https://arxiv.org/abs/2503.06220)]
+22. **Commentary Generation for Soccer Highlights**, arXiv:2508.07543 2025 [[paper](https://arxiv.org/abs/2508.07543)]
+23. **Large VLM-based Stylized Sports Captioning**, arXiv:2508.19295 2025 [[paper](https://arxiv.org/abs/2508.19295)]
+24. **TennisExpert: Towards Expert-Level Analytical Sports Video Understanding**, arXiv:2603.13397 2026 [[paper](https://arxiv.org/abs/2603.13397)]
 
 
 ### Sports Highlight Generation
@@ -356,6 +372,8 @@ Use these paths to move from the survey to representative research areas:
 17. **Domain Adaptation of VLM for Soccer Video Understanding**, CVPR 2025 CVsports Workshop [[paper]( https://openaccess.thecvf.com/content/CVPR2025W/CVSPORTS/html/Jiang_Domain_Adaptation_of_VLM_for_Soccer_Video_Understanding_CVPRW_2025_paper.html)]
 18. **FineQuest: Adaptive Knowledge-Assisted Sports Video Understanding via Agent-of-Thoughts Reasoning**, MM 2025 [[paper]( https://arxiv.org/abs/2509.11796)]
 19. **Sporthesia: Augmenting Sports Videos Using Natural Language**, IEEE transactions on visualization and computer graphics 2022 [[paper]( https://ieeexplore.ieee.org/abstract/document/9911988/)]
+20. **TennisExpert: Towards Expert-Level Analytical Sports Video Understanding**, arXiv:2603.13397 2026 [[paper](https://arxiv.org/abs/2603.13397)]
+21. **SVI-Bench: A Dynamic Microworld for Strategic Video Intelligence**, arXiv:2605.31529 2026 [[paper](https://arxiv.org/abs/2605.31529)]
 
 
 ## Applications for Researchers
@@ -404,6 +422,13 @@ Use these paths to move from the survey to representative research areas:
 8. **Sports Intelligence: Assessing the Sports Understanding Capabilities of Language Models Through Question Answering from Text to Video**, Electronics 2025 [[paper](https://www.mdpi.com/2079-9292/14/3/461)] 
 9. **FineBadminton: A Multi-Level Dataset for Fine-Grained Badminton Video Understanding**, MM 2025 [[paper](https://www.arxiv.org/abs/2508.07554)] 
 10. **FineQuest: Adaptive Knowledge-Assisted Sports Video Understanding via Agent-of-Thoughts Reasoning**, MM 2025 [[paper](https://arxiv.org/abs/2509.11796)] 
+11. **SportR: A Benchmark for Multimodal Large Language Model Reasoning in Sports**, arXiv:2511.06499 2025 [[paper](https://arxiv.org/abs/2511.06499)]
+12. **DeepSport: A Multimodal Large Language Model for Comprehensive Sports Video Reasoning via Agentic Reinforcement Learning**, arXiv:2511.12908 2025 [[paper](https://arxiv.org/abs/2511.12908)]
+13. **Stepping VLMs onto the Court: Benchmarking Spatial Intelligence in Sports**, arXiv:2603.09896 2026 [[paper](https://arxiv.org/abs/2603.09896)]
+14. **TennisExpert: Towards Expert-Level Analytical Sports Video Understanding**, arXiv:2603.13397 2026 [[paper](https://arxiv.org/abs/2603.13397)]
+15. **Towards Temporal Compositional Reasoning in Long-Form Sports Videos**, arXiv:2604.22226 2026 [[paper](https://arxiv.org/abs/2604.22226)]
+16. **SVI-Bench: A Dynamic Microworld for Strategic Video Intelligence**, arXiv:2605.31529 2026 [[paper](https://arxiv.org/abs/2605.31529)]
+17. **Beyond the Single Camera: Agentic Multi-View Reasoning in Sports Video Understanding**, arXiv:2607.11844 2026 [[paper](https://arxiv.org/abs/2607.11844)]
 
 ### General Video Understanding
 
@@ -461,6 +486,21 @@ Use these paths to move from the survey to representative research areas:
 
 <!-- YEAR_INDEX:START -->
 
+### 2026
+
+1. **Generalizing Sports Feedback Generation by Watching Competitions and Reading Books: A Rock Climbing Case Study**, WACV 2026 [[paper](https://arxiv.org/abs/2602.08996)]
+1. **Learning Consistent Temporal Grounding between Related Tasks in Sports Coaching**, arXiv:2603.18453 2026 [[paper](https://arxiv.org/abs/2603.18453)]
+1. **Digitizing Coaching Intelligence: An Agentic Framework for Holistic Athlete Profiling using VLM and RAG**, arXiv:2606.28570 2026 [[paper](https://arxiv.org/abs/2606.28570)]
+1. **The Promise of Foundational Large Language Models in Analysis and Interpretation of Wearable Data: Implications for Physical Behavior Research**, SportRxiv 2026 [[paper](https://sportrxiv.org/index.php/server/preprint/view/711)]
+1. **Can Vision Language Models Judge Action Quality? An Empirical Evaluation**, arXiv:2604.08294 2026 [[paper](https://arxiv.org/abs/2604.08294)]
+1. **RefereeBench: Are Video MLLMs Ready to be Multi-Sport Referees**, arXiv:2604.15736 2026 [[paper](https://arxiv.org/abs/2604.15736)]
+1. **SoccerRef-Agents: Multi-Agent System for Automated Soccer Refereeing**, arXiv:2604.23392 2026 [[paper](https://arxiv.org/abs/2604.23392)]
+1. **Beyond the Single Camera: Agentic Multi-View Reasoning in Sports Video Understanding**, arXiv:2607.11844 2026 [[paper](https://arxiv.org/abs/2607.11844)]
+1. **TennisExpert: Towards Expert-Level Analytical Sports Video Understanding**, arXiv:2603.13397 2026 [[paper](https://arxiv.org/abs/2603.13397)]
+1. **SVI-Bench: A Dynamic Microworld for Strategic Video Intelligence**, arXiv:2605.31529 2026 [[paper](https://arxiv.org/abs/2605.31529)]
+1. **Stepping VLMs onto the Court: Benchmarking Spatial Intelligence in Sports**, arXiv:2603.09896 2026 [[paper](https://arxiv.org/abs/2603.09896)]
+1. **Towards Temporal Compositional Reasoning in Long-Form Sports Videos**, arXiv:2604.22226 2026 [[paper](https://arxiv.org/abs/2604.22226)]
+
 ### 2025
 
 1. **Visualizing Exercise Data from Combat Exergame for Exploring the Insight from Personal Informatics with Large Language Models**, CHI EA 2025 [[paper](https://dl.acm.org/doi/abs/10.1145/3706599.3720165)]
@@ -491,6 +531,8 @@ Use these paths to move from the survey to representative research areas:
 1. **The AI Coach: A 5-Week AI-Generated Calisthenics Training Program on Health-Related Physical Fitness Components of Untrained Collegiate Students**, Journal of Human Sport and Exercise 2025 [[paper](https://www.jhse.es/index.php/jhse/article/view/ai-generated-calisthenics-training-program)]
 1. **The Effects of Chat GPT Generated Exercise Program in Healthy Overweight Young Adults: A Pilot Study**, Journal of Human Sport and Exercise 2025 [[paper](https://www.jhse.es/index.php/jhse/article/view/gpt-chat-generated-exercise-program-healthy-overweight-young-adu)]
 1. **Promises and Perils of Generative Artificial Intelligence: A Narrative Review Informing Its Ethical and Practical Applications in Clinical Exercise Physiology**, BMC Sports Science, Medicine and Rehabilitation 2025 [[paper](https://link.springer.com/article/10.1186/s13102-025-01182-7)]
+1. **Exploring Large Language Model as an Interactive Sports Coach: Lessons from a Single-Subject Half Marathon Preparation**, arXiv:2509.26593 2025 [[paper](https://arxiv.org/abs/2509.26593)]
+1. **SportsGPT: An LLM-driven Framework for Interpretable Sports Motion Assessment and Training Guidance**, arXiv:2512.14121 2025 [[paper](https://arxiv.org/abs/2512.14121)]
 1. **Full-Parameter Fine-Tuning Method of LLMs for Sports Injury Prevention and Treatment**, IJMCMC 2025 [[paper](https://www.igi-global.com/article/full-parameter-fine-tuning-method-of-llms-for-sports-injury-prevention-and-treatment/376486)]
 1. **Comparative Evaluation of Artificial Intelligence Models GPT-4 and GPT-3.5 in Clinical Decision-Making in Sports Surgery and Physiotherapy: a Cross-Sectional Study**, BMC Medical Informatics and Decision Making 2025 [[paper]( https://link.springer.com/article/10.1186/s12911-025-02996-8)]
 1. **Evaluation of the Phi-3-Mini SLM for Identification of Texts Related to Medicine, Health, and Sports Injuries**, ICMI 2025 [[paper](https://ieeexplore.ieee.org/abstract/document/11141224)]
@@ -528,6 +570,8 @@ Use these paths to move from the survey to representative research areas:
 1. **Enhanced Cricket Commentary Using AI Vision and Multilingual Translation**, IEEE International Conference on Emerging Technologies and Applications (MPSec ICETA), IEEE 2025 [[paper](https://ieeexplore.ieee.org/abstract/document/11118722)]
 1. **Temporally-Grounded Language Generation: a Benchmark for Real-Time Vision-Language Models**, arXiv:2505.11326 [[paper](https://arxiv.org/abs/2505.11326)]
 1. **StreamMind: Unlocking Full Frame Rate Streaming Video Dialogue Through Event-Gated Cognition**, arXiv:2503.06220 [[paper](https://arxiv.org/abs/2503.06220)]
+1. **Commentary Generation for Soccer Highlights**, arXiv:2508.07543 2025 [[paper](https://arxiv.org/abs/2508.07543)]
+1. **Large VLM-based Stylized Sports Captioning**, arXiv:2508.19295 2025 [[paper](https://arxiv.org/abs/2508.19295)]
 1. **Survey Paper on AI Based Sports Highlight Generation for Social Media**, Journal of Scientific Research and Technology 2025 [[paper]( https://www.jsrtjournal.com/index.php/JSRT/article/view/194)]
 1. **DIAMOND: an LLM-Driven Agent for Context-Aware Baseball Highlight Summarization**, REALM 2025 [[paper]( https://aclanthology.org/2025.realm-1.28/)]
 1. **HIPPO-VIDEO: Simulating Watch Histories with Large Language Models for History-Driven Video Highlighting**, COLM 2025 [[paper](https://www.arxiv.org/abs/2507.16873)]
@@ -556,6 +600,8 @@ Use these paths to move from the survey to representative research areas:
 1. **FSBench: A Figure Skating Benchmark for Advancing Artistic Sports Understanding**, CVPR 2025 [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Gao_FSBench_A_Figure_Skating_Benchmark_for_Advancing_Artistic_Sports_Understanding_CVPR_2025_paper.html)]
 1. **Sports Intelligence: Assessing the Sports Understanding Capabilities of Language Models Through Question Answering from Text to Video**, Electronics 2025 [[paper](https://www.mdpi.com/2079-9292/14/3/461)]
 1. **FineBadminton: A Multi-Level Dataset for Fine-Grained Badminton Video Understanding**, MM 2025 [[paper](https://www.arxiv.org/abs/2508.07554)]
+1. **SportR: A Benchmark for Multimodal Large Language Model Reasoning in Sports**, arXiv:2511.06499 2025 [[paper](https://arxiv.org/abs/2511.06499)]
+1. **DeepSport: A Multimodal Large Language Model for Comprehensive Sports Video Reasoning via Agentic Reinforcement Learning**, arXiv:2511.12908 2025 [[paper](https://arxiv.org/abs/2511.12908)]
 1.  **VideoVista: a Versatile Benchmark for Video Understanding and Reasoning**,arXiv 2025 [[paper](https://ieeexplore.ieee.org/abstract/document/10982110)]
 1.  **Video-SALMONN 2: Captioning-Enhanced Audio-Visual Large Language Models**, arXiv:2506.15220 [[paper](https://arxiv.org/abs/2506.15220)]
 1.  **MMWorld: Towards Multi-Discipline Multi-Faceted World Model Evaluation in Videos**, ICLR 2025 [[paper](https://openreview.net/forum?id=tRNKe2Vgqt)]

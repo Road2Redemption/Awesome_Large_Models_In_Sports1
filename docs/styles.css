@@ -42,9 +42,8 @@ button, input, select { font: inherit; }
 }
 .nav {
   position: relative; z-index: 2; display: flex; align-items: center;
-  justify-content: space-between; padding-block: 18px; border-bottom: 1px solid var(--line);
+  justify-content: flex-end; padding-block: 18px; border-bottom: 1px solid var(--line);
 }
-.brand { display: flex; align-items: center; gap: 11px; font-weight: 600; text-decoration: none; }
 .nav-links { display: flex; gap: 26px; }
 .nav-links a { color: var(--ink-soft); text-decoration: none; font-size: 14px; }
 .nav-links a:hover { color: var(--accent); }
@@ -144,7 +143,6 @@ footer { padding-block: 48px; color: var(--ink-soft); background: var(--panel); 
 @media (max-width: 640px) {
   .shell { width: min(100% - 28px, 1160px); }
   .nav { padding-block: 15px; }
-  .brand > span:last-child { display: none; }
   .nav-links { gap: 17px; }
   .hero h1 { font-size: 45px; }
   .dek { font-size: 16px; }

@@ -1,6 +1,6 @@
 {
   "generated_from": "README.md",
-  "paper_count": 225,
+  "paper_count": 243,
   "papers": [
     {
       "title": "Artificial Intelligence in Sport: Exploring the Potential of Using ChatGPT in Resistance Training Prescription",
@@ -549,6 +549,71 @@
       ]
     },
     {
+      "title": "Exploring Large Language Model as an Interactive Sports Coach: Lessons from a Single-Subject Half Marathon Preparation",
+      "year": 2025,
+      "venue": "arXiv:2509.26593 2025",
+      "paper": "https://arxiv.org/abs/2509.26593",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Athletes and Trainers",
+          "topic": "Training Prescription and Plans"
+        }
+      ]
+    },
+    {
+      "title": "SportsGPT: An LLM-driven Framework for Interpretable Sports Motion Assessment and Training Guidance",
+      "year": 2025,
+      "venue": "arXiv:2512.14121 2025",
+      "paper": "https://arxiv.org/abs/2512.14121",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Athletes and Trainers",
+          "topic": "Training Prescription and Plans"
+        }
+      ]
+    },
+    {
+      "title": "Generalizing Sports Feedback Generation by Watching Competitions and Reading Books: A Rock Climbing Case Study",
+      "year": 2026,
+      "venue": "WACV 2026",
+      "paper": "https://arxiv.org/abs/2602.08996",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Athletes and Trainers",
+          "topic": "Training Prescription and Plans"
+        }
+      ]
+    },
+    {
+      "title": "Learning Consistent Temporal Grounding between Related Tasks in Sports Coaching",
+      "year": 2026,
+      "venue": "arXiv:2603.18453 2026",
+      "paper": "https://arxiv.org/abs/2603.18453",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Athletes and Trainers",
+          "topic": "Training Prescription and Plans"
+        }
+      ]
+    },
+    {
+      "title": "Digitizing Coaching Intelligence: An Agentic Framework for Holistic Athlete Profiling using VLM and RAG",
+      "year": 2026,
+      "venue": "arXiv:2606.28570 2026",
+      "paper": "https://arxiv.org/abs/2606.28570",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Athletes and Trainers",
+          "topic": "Training Prescription and Plans"
+        }
+      ]
+    },
+    {
       "title": "The Role of ChatGPT in Sports Trauma: a Mini Review on Strengths and Limits of Open AI Application",
       "year": 2023,
       "venue": "Discover Artificial Intelligence 2023",
@@ -822,6 +887,19 @@
       ]
     },
     {
+      "title": "The Promise of Foundational Large Language Models in Analysis and Interpretation of Wearable Data: Implications for Physical Behavior Research",
+      "year": 2026,
+      "venue": "SportRxiv 2026",
+      "paper": "https://sportrxiv.org/index.php/server/preprint/view/711",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Athletes and Trainers",
+          "topic": "Sports Psychology and Behavior"
+        }
+      ]
+    },
+    {
       "title": "Rugby Scene Classification Enhanced by Vision Language Model",
       "year": 2024,
       "venue": "CVPR 2024 CVsports Workshop",
@@ -990,6 +1068,19 @@
       "year": 2025,
       "venue": "PloS one 2025",
       "paper": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313707",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Coaches and Educators",
+          "topic": "Sports Action Quality Assessment"
+        }
+      ]
+    },
+    {
+      "title": "Can Vision Language Models Judge Action Quality? An Empirical Evaluation",
+      "year": 2026,
+      "venue": "arXiv:2604.08294 2026",
+      "paper": "https://arxiv.org/abs/2604.08294",
       "resources": {},
       "categories": [
         {
@@ -1337,6 +1428,49 @@
       ]
     },
     {
+      "title": "RefereeBench: Are Video MLLMs Ready to be Multi-Sport Referees",
+      "year": 2026,
+      "venue": "arXiv:2604.15736 2026",
+      "paper": "https://arxiv.org/abs/2604.15736",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Referees",
+          "topic": "Sports Refereeing"
+        }
+      ]
+    },
+    {
+      "title": "SoccerRef-Agents: Multi-Agent System for Automated Soccer Refereeing",
+      "year": 2026,
+      "venue": "arXiv:2604.23392 2026",
+      "paper": "https://arxiv.org/abs/2604.23392",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Referees",
+          "topic": "Sports Refereeing"
+        }
+      ]
+    },
+    {
+      "title": "Beyond the Single Camera: Agentic Multi-View Reasoning in Sports Video Understanding",
+      "year": 2026,
+      "venue": "arXiv:2607.11844 2026",
+      "paper": "https://arxiv.org/abs/2607.11844",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Referees",
+          "topic": "Sports Refereeing"
+        },
+        {
+          "stakeholder": "Sports Understanding",
+          "topic": "Specialized Sports Understanding"
+        }
+      ]
+    },
+    {
       "title": "Soccer Game Summarization Using Audio Commentary, Metadata, and Captions",
       "year": 2022,
       "venue": "NarSUM 2022",
@@ -1605,6 +1739,53 @@
         {
           "stakeholder": "Applications for Fans and Media",
           "topic": "Sports Commentary Generation"
+        }
+      ]
+    },
+    {
+      "title": "Commentary Generation for Soccer Highlights",
+      "year": 2025,
+      "venue": "arXiv:2508.07543 2025",
+      "paper": "https://arxiv.org/abs/2508.07543",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Fans and Media",
+          "topic": "Sports Commentary Generation"
+        }
+      ]
+    },
+    {
+      "title": "Large VLM-based Stylized Sports Captioning",
+      "year": 2025,
+      "venue": "arXiv:2508.19295 2025",
+      "paper": "https://arxiv.org/abs/2508.19295",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Fans and Media",
+          "topic": "Sports Commentary Generation"
+        }
+      ]
+    },
+    {
+      "title": "TennisExpert: Towards Expert-Level Analytical Sports Video Understanding",
+      "year": 2026,
+      "venue": "arXiv:2603.13397 2026",
+      "paper": "https://arxiv.org/abs/2603.13397",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Fans and Media",
+          "topic": "Sports Commentary Generation"
+        },
+        {
+          "stakeholder": "Applications for Fans and Media",
+          "topic": "Sports Models and Systems"
+        },
+        {
+          "stakeholder": "Sports Understanding",
+          "topic": "Specialized Sports Understanding"
         }
       ]
     },
@@ -2107,6 +2288,23 @@
       ]
     },
     {
+      "title": "SVI-Bench: A Dynamic Microworld for Strategic Video Intelligence",
+      "year": 2026,
+      "venue": "arXiv:2605.31529 2026",
+      "paper": "https://arxiv.org/abs/2605.31529",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Applications for Fans and Media",
+          "topic": "Sports Models and Systems"
+        },
+        {
+          "stakeholder": "Sports Understanding",
+          "topic": "Specialized Sports Understanding"
+        }
+      ]
+    },
+    {
       "title": "ChatGPT for Sample-Size Calculation in Sports Medicine and Exercise Sciences: a Cautionary Note",
       "year": 2023,
       "venue": "International Journal of Sports Physiology and Performance 2023",
@@ -2384,6 +2582,58 @@
       "year": 2025,
       "venue": "MM 2025",
       "paper": "https://www.arxiv.org/abs/2508.07554",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Sports Understanding",
+          "topic": "Specialized Sports Understanding"
+        }
+      ]
+    },
+    {
+      "title": "SportR: A Benchmark for Multimodal Large Language Model Reasoning in Sports",
+      "year": 2025,
+      "venue": "arXiv:2511.06499 2025",
+      "paper": "https://arxiv.org/abs/2511.06499",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Sports Understanding",
+          "topic": "Specialized Sports Understanding"
+        }
+      ]
+    },
+    {
+      "title": "DeepSport: A Multimodal Large Language Model for Comprehensive Sports Video Reasoning via Agentic Reinforcement Learning",
+      "year": 2025,
+      "venue": "arXiv:2511.12908 2025",
+      "paper": "https://arxiv.org/abs/2511.12908",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Sports Understanding",
+          "topic": "Specialized Sports Understanding"
+        }
+      ]
+    },
+    {
+      "title": "Stepping VLMs onto the Court: Benchmarking Spatial Intelligence in Sports",
+      "year": 2026,
+      "venue": "arXiv:2603.09896 2026",
+      "paper": "https://arxiv.org/abs/2603.09896",
+      "resources": {},
+      "categories": [
+        {
+          "stakeholder": "Sports Understanding",
+          "topic": "Specialized Sports Understanding"
+        }
+      ]
+    },
+    {
+      "title": "Towards Temporal Compositional Reasoning in Long-Form Sports Videos",
+      "year": 2026,
+      "venue": "arXiv:2604.22226 2026",
+      "paper": "https://arxiv.org/abs/2604.22226",
       "resources": {},
       "categories": [
         {
